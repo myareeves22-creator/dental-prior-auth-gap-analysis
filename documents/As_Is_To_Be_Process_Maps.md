@@ -9,12 +9,12 @@ The objective of this document is to visually map and analyze the operational wo
 ---
 
 ## As-Is Process (Current State)
-**Dentist:** Diagnoses the patient during an exam and writes a paper treatment plan for a crown.
-**Receptionist:** Receives the paper plan at the front desk, opens the patient's chart, and manually fills out a 4-page paper insurance claim form.
-**Receptionist:** Prints out diagnostic X-rays, attaches them to the paper form, and faxes the packet to the insurance provider.
-**Insurance Company:** Receives the fax, places it in a queue, and takes 3–5 business days to review it.
+**Dentist & Dental Assistant:** Dentist diagnoses the patient during an exam; Dental Assistant enters the treatment plan electronically into the EHR system chairside.
+**Receptionist:** Retrieves the electronic plan at the front desk, opens the patient's chart, and transcribes the data onto a 4-page paper insurance claim form.
+**Receptionist:** Prints out physical diagnostic X-rays, attaches them to the paper form, and faxes the complete packet to the insurance provider.
+**Insurance Company:** Receives the fax, places it in a review queue, and takes 3–5 business days to evaluate it.
 **Insurance Company:** Faxes back an approval or denial letter to the clinic.
-**Receptionist:** Checks the fax machine, reads the approval, and manually calls the patient to schedule their treatment appointment.
+**Receptionist:** Checks the physical fax machine, logs the decision, and initiates manual phone follow-ups to schedule the patient.
 
 ---
 
