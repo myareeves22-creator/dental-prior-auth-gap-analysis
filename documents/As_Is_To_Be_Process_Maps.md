@@ -3,7 +3,7 @@
 
 **Date|** October 2026
 
-## Objecctive
+## Objective
 The objective of this document is to visually map and analyze the operational workflow of dental insurance prior-authorizations. By contrasting the current manual, fax-heavy "As-Is" process with an automated, digital-first "To-Be" workflow, this analysis identifies critical bottlenecks, eliminates administrative waste, and establishes a streamlined path to achieve 24-hour authorization turnarounds.
 
 ---
