@@ -31,7 +31,7 @@ This report evaluates the operational gaps causing the 5-7 day prior authorizati
   ---
 
 ## Strategic Recommendations
-* 1. **Procure Clearinghouse API Integration:** Integrate a digital clearinghouse directly into the practice EHR software for seamless electronic claim and X-ray transmission.
-  2. **Configure Front-Desk Dashboard:** Implement real-time status flags (Pending, Approved, Information Requested) on the front-desk EHR interface.
-  3. **Update Clinical & Administrative SOPs:** Retrain chairside dental assistants to attach digital artifacts during diagnosis, and empower receptionists to schedule treatments immediately upon digital confirmation.
+1. **Procure Clearinghouse API Integration:** Integrate a digital clearinghouse directly into the practice EHR software for seamless electronic claim and X-ray transmission.
+2. **Configure Front-Desk Dashboard:** Implement real-time status flags (Pending, Approved, Information Requested) on the front-desk EHR interface.
+3. **Update Clinical & Administrative SOPs:** Retrain chairside dental assistants to attach digital artifacts during diagnosis, and empower receptionists to schedule treatments immediately upon digital confirmation.
  
